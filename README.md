@@ -10,5 +10,6 @@ Do ```npm start``` . This starts the server on port 8000.
 Feel free to explore it.
 Click on ```Run in Postman``` and try out.
 
-Cheers, 
+Cheers,
+
 Kruthika :)
