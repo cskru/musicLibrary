@@ -39,7 +39,6 @@ app.use(bodyParser.urlencoded({
 }));
 
 app.use('/rest', require('./rest/api/index'));
-app.use('/rest/employee', require('./rest/api/employee'));
 app.use('/rest/music', require('./rest/api/music'));
 app.use('/', function (req, res, next) {
     res.send("Welcome");
